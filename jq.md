@@ -4,7 +4,7 @@ date: 2016-9-16
 ---
 
 # ajax-jq封装
-
+* 用jq封装ajax
 ```javascript
 var $={
     ajax:function(obj){
